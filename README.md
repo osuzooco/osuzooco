@@ -1,14 +1,13 @@
 # /me.exe
 
 ## /interests.txt
-- Linux / Cloud
-- Cybersec / Com
-- Programming / Creating
-- Self hosting / FOSS 
-- All the stuff below
+- linux and windows
+- cybersec
+- developing and creating
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=linux,arch,bash,raspberrypi,aws,html,css,cpp,cs,py,vscode,git,unity,ableton,discord)](https://skillicons.dev)
+
+[![SkillIcons](https://skillicons.dev/icons?i=linux,bash,html,css,c,cs,py,vscode,git,discord)](https://skillicons.dev)
 
 ## /stats.jpg
 <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/801378854618398740 simple=true)
