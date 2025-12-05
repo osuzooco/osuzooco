@@ -1,4 +1,4 @@
-# /me.exe
+# /me
 
 ## /interests.txt
 - linux and windows
@@ -9,7 +9,7 @@
 
 [![SkillIcons](https://skillicons.dev/icons?i=linux,bash,html,css,c,cs,py,vscode,git,discord)](https://skillicons.dev)
 
-## /stats.jpg
+## /stats
 <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/801378854618398740 simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/801378854618398740)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/801378854618398740) -->
