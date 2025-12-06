@@ -1,6 +1,6 @@
 #  me
 
-## /interests.txt
+##  interests.love
 - linux and windows
 - cybersec
 - developing and creating
